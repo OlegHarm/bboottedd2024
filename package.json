@@ -1,0 +1,29 @@
+{
+  "name": "bboottedd2024",
+  "version": "1.0.0",
+  "description": "my bot parcer 2024 v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlegHarm/bboottedd2024.git"
+  },
+  "dependencies": {
+    "helpershark": "1.0.1",
+    "instagram_asker_v1": "1.0.0",
+    "askingbot3": "1.0.1",
+    "askingbot3_v1": "1.0.0",
+    "sstgbot1": "1.0.1",
+    "sstgbot1_v2": "1.0.0",
+    "bboottedd9": "1.0.1"
+   
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegHarm/bboottedd2024/issues"
+  },
+  "homepage": "https://github.com/OlegHarm/bboottedd2024"
+}
